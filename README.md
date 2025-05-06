@@ -1,0 +1,1 @@
+# Microsoft-Fabric-Real-time-Analytics-Implementation-Patterns
