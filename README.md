@@ -98,6 +98,6 @@ Looking ahead, several trends indicate continued advancement:
 - Security controls adapt dynamically to data sensitivity
 - Integration capabilities expand across platforms
 
-Learn more about implementing real-time analytics patterns in our [Microsoft Fabric Data Engineer (DP-700) certification course](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-fabric-data-engineer-associate-dp700/):
+Learn more about implementing real-time analytics patterns in our [Microsoft Fabric Data Engineer (DP-700) certification course](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-fabric-data-engineer-associate-dp700/).
 
 The advancement of real-time analytics in Microsoft Fabric continues to reveal new possibilities. Success comes from understanding these patterns while maintaining performance and scalability. Each implementation contributes to our collective knowledge of modern analytics architecture.
